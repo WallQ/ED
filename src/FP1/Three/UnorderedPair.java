@@ -11,8 +11,6 @@ public class UnorderedPair<T extends Comparable> extends Pair<T> {
         setSecond(second);
     }
 
-
-
     public boolean equals(Object otherObject) {
         if (otherObject == null) {
             return false;
