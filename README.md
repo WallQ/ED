@@ -6,4 +6,4 @@
 
 ## License
 
-[MIT](https://github.com/WallQ/ED/blob/main/LICENSE)
+[MIT](https://github.com/WallQ/ED/blob/master/LICENSE)
