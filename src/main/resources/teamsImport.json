@@ -1,0 +1,12 @@
+{
+  "teams": [
+    {
+      "id": "1",
+      "name": "Giants"
+    },
+    {
+      "id": "2",
+      "name": "Sparks"
+    }
+  ]
+}

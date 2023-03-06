@@ -1,0 +1,52 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Player 1",
+      "team": "1",
+      "level": 1,
+      "currentExperience": 0,
+      "totalExperience": 0,
+      "energy": 100,
+      "maxEnergy": 100,
+      "conqueredPortals": 0,
+      "currentLocal": "5"
+    },
+    {
+      "id": "2",
+      "name": "Player 2",
+      "team": "2",
+      "level": 1,
+      "currentExperience": 0,
+      "totalExperience": 0,
+      "energy": 100,
+      "maxEnergy": 100,
+      "conqueredPortals": 0,
+      "currentLocal": "5"
+    },
+    {
+      "id": "3",
+      "name": "Player 3",
+      "team": "1",
+      "level": 1,
+      "currentExperience": 0,
+      "totalExperience": 0,
+      "energy": 100,
+      "maxEnergy": 100,
+      "conqueredPortals": 0,
+      "currentLocal": "5"
+    },
+    {
+      "id": "4",
+      "name": "Player 4",
+      "team": "2",
+      "level": 1,
+      "currentExperience": 0,
+      "totalExperience": 0,
+      "energy": 100,
+      "maxEnergy": 100,
+      "conqueredPortals": 0,
+      "currentLocal": "5"
+    }
+  ]
+}

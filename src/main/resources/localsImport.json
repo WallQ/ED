@@ -1,0 +1,100 @@
+{
+  "locals": [
+    {
+      "type": "Portal",
+      "id": "1",
+      "coordinates": {
+        "latitude": 15.02540,
+        "longitude": 91.86087
+      },
+      "name": "Portal 1",
+      "energy": 100,
+      "maxEnergy": 2147483647,
+      "conqueror": null,
+      "team": null
+    },
+    {
+      "type": "Portal",
+      "id": "2",
+      "coordinates": {
+        "latitude": 26.82647,
+        "longitude": 56.73733
+      },
+      "name": "Portal 2",
+      "energy": 100,
+      "maxEnergy": 2147483647,
+      "conqueror": null,
+      "team": null
+    },
+    {
+      "type": "Portal",
+      "id": "3",
+      "coordinates": {
+        "latitude": 3.31099,
+        "longitude": -97.99186
+      },
+      "name": "Portal 3",
+      "energy": 100,
+      "maxEnergy": 2147483647,
+      "conqueror": null,
+      "team": null
+    },
+    {
+      "type": "Portal",
+      "id": "4",
+      "coordinates": {
+        "latitude": -54.43503,
+        "longitude": -8.60910
+      },
+      "name": "Portal 4",
+      "energy": 100,
+      "maxEnergy": 2147483647,
+      "conqueror": null,
+      "team": null
+    },
+    {
+      "type": "Connector",
+      "id": "5",
+      "coordinates": {
+        "latitude": 6.16453,
+        "longitude": -102.58605
+      },
+      "energy": 50,
+      "cooldown": {},
+      "trap": false
+    },
+    {
+      "type": "Connector",
+      "id": "6",
+      "coordinates": {
+        "latitude": -26.49485,
+        "longitude": 101.03363
+      },
+      "energy": 50,
+      "cooldown": {},
+      "trap": false
+    },
+    {
+      "type": "Connector",
+      "id": "7",
+      "coordinates": {
+        "latitude": -22.44778,
+        "longitude": -109.53011
+      },
+      "energy": 50,
+      "cooldown": {},
+      "trap": false
+    },
+    {
+      "type": "Connector",
+      "id": "8",
+      "coordinates": {
+        "latitude": 3.34896,
+        "longitude": -144.06618
+      },
+      "energy": 50,
+      "cooldown": {},
+      "trap": true
+    }
+  ]
+}
