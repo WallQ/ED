@@ -10,8 +10,6 @@ Conquer World Application uses several open-source projects and tools to work pr
 
 - [Java](https://www.java.com/) - Main programming language
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - IDE for developing software written in Java, Kotlin, Groovy, and other JVM-based languages
-- [JUnit5](https://junit.org/) - Framework for creating unit tests
-- [JaCoCo](https://www.jacoco.org/) - Toolkit for measuring code coverage and reporting it
 - [Microsoft Word](https://www.microsoft.com/pt-pt/microsoft-365/word/) - Document creation and word processing
 - [Discord](https://discord.com/) - Application for voice, video, and text conversation
 
